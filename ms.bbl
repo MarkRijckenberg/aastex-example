@@ -1,0 +1,32 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Brehmer and D{\"o}rner(1993)]{brehmer1993experiments}
+Berndt Brehmer and Dietrich D{\"o}rner.
+\newblock Experiments with computer-simulated microworlds: Escaping both the
+  narrow straits of the laboratory and the deep blue sea of the field study.
+\newblock \emph{Computers in Human Behavior}, 9\penalty0 (2):\penalty0
+  171--184, 1993.
+
+\bibitem[Kennedy and Jacob(1998)]{kennedy1998cationic}
+JP~Kennedy and S~Jacob.
+\newblock Cationic polymerization astronomy. synthesis of polymer stars by
+  cationic means.
+\newblock \emph{Accounts of chemical research}, 31\penalty0 (12):\penalty0
+  835--841, 1998.
+
+\bibitem[Kumar et~al.(2008)Kumar, Dozsa, Almasi, Heidelberger, Chen, Giampapa,
+  Blocksome, Faraj, Parker, Ratterman, et~al.]{kumar2008deep}
+Sameer Kumar, Gabor Dozsa, Gheorghe Almasi, Philip Heidelberger, Dong Chen,
+  Mark~E Giampapa, Michael Blocksome, Ahmad Faraj, Jeff Parker, Joseph
+  Ratterman, et~al.
+\newblock The deep computing messaging framework: generalized scalable message
+  passing on the blue gene/p supercomputer.
+\newblock In \emph{Proceedings of the 22nd annual international conference on
+  Supercomputing}, pages 94--103. ACM, 2008.
+
+\end{thebibliography}

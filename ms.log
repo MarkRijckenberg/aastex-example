@@ -1,1021 +1,1087 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdftex 2012.10.18)  25 APR 2013 20:34
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.5.1)  1 MAY 2013 15:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **ms.tex
 (./ms.tex
-! Undefined control sequence.
-l.43 \documentclass
-                   [12pt,preprint]{aastex}
-? :quit
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
-? quit
-OK, entering \batchmode...
-! Undefined control sequence.
-l.48 \usepackage
-                {rotating}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.49 \usepackage
-                {subfigure}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.50 \usepackage
-                {lscape}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.52 \citestyle
-               {aa}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.56 \newcommand
-                {\vect}[1]{\mathbf{#1}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.56 \newcommand{\vect
-                      }[1]{\mathbf{#1}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.56 \newcommand{\vect}[1]{\mathbf
-                                  {#1}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `macro parameter character #' in horizontal mode.
-l.56 \newcommand{\vect}[1]{\mathbf{#
-                                    1}}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-! Undefined control sequence.
-l.57 \newcommand
-                {\xad}{\vect{x}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.57 \newcommand{\xad
-                     }{\vect{x}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.57 \newcommand{\xad}{\vect
-                            {x}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.59 \newcommand
-                {\ammonia}{\mbox{{\rm NH}$_3$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.59 \newcommand{\ammonia
-                         }{\mbox{{\rm NH}$_3$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.59 \newcommand{\ammonia}{\mbox
-                                {{\rm NH}$_3$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.60 \newcommand
-                {\form}{H$_2$CO}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.60 \newcommand{\form
-                      }{H$_2$CO}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.61 \newcommand
-                {\td}{\mbox{$T_D$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.61 \newcommand{\td
-                    }{\mbox{$T_D$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.61 \newcommand{\td}{\mbox
-                           {$T_D$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.62 \newcommand
-                {\jj}[2]{\mbox{$J = #1\rightarrow#2$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.62 \newcommand{\jj
-                    }[2]{\mbox{$J = #1\rightarrow#2$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.62 \newcommand{\jj}[2]{\mbox
-                              {$J = #1\rightarrow#2$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `macro parameter character #' in math mode.
-l.62 \newcommand{\jj}[2]{\mbox{$J = #
-                                     1\rightarrow#2$}}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-! You can't use `macro parameter character #' in math mode.
-l.62 \newcommand{\jj}[2]{\mbox{$J = #1\rightarrow#
-                                                  2$}}
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-! Undefined control sequence.
-l.63 \newcommand
-                {\vdag}{(v)^\dagger}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.63 \newcommand{\vdag
-                      }{(v)^\dagger}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-<to be read again> 
-                   ^
-l.63 \newcommand{\vdag}{(v)^
-                            \dagger}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-l.63 \newcommand{\vdag}{(v)^\dagger}
-                                    
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Undefined control sequence.
-l.64 \newcommand
-                {\myemail}{{\tt jaguirre@sas.upenn.edu}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.64 \newcommand{\myemail
-                         }{{\tt jaguirre@sas.upenn.edu}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.65 \newcommand
-                {\lsim}{{_{<}\atop^{\sim}}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.65 \newcommand{\lsim
-                      }{{_{<}\atop^{\sim}}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.66 \newcommand
-                {\gsim}{{_{>}\atop^{\sim}}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.66 \newcommand{\gsim
-                      }{{_{>}\atop^{\sim}}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.67 \newcommand
-                {\etal}{{et al.\/}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.67 \newcommand{\etal
-                      }{{et al.\/}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.68 \newcommand
-                {\ie}{{i.e.\/}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.68 \newcommand{\ie
-                    }{{i.e.\/}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.69 \newcommand
-                {\eg}{{e.g.\/}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.69 \newcommand{\eg
-                    }{{e.g.\/}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.70 \newcommand
-                {\cmq}{cm{$^{-3}$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.70 \newcommand{\cmq
-                     }{cm{$^{-3}$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing } inserted.
-<inserted text> 
-                }
-<to be read again> 
-                   $
-l.70 \newcommand{\cmq}{cm{$
-                           ^{-3}$}}
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-<to be read again> 
-                   $
-l.70 \newcommand{\cmq}{cm{$
-                           ^{-3}$}}
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-<to be read again> 
-                   ^
-l.70 \newcommand{\cmq}{cm{$^
-                            {-3}$}}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Too many }'s.
-l.70 \newcommand{\cmq}{cm{$^{-3}$}}
-                                   
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-! Undefined control sequence.
-l.71 \newcommand
-                {\per}{$^{\rm{-1}}$}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.71 \newcommand{\per
-                     }{$^{\rm{-1}}$}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.72 \newcommand
-                {\tc}{{$\theta^1$~Orionis~C}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.72 \newcommand{\tc
-                    }{{$\theta^1$~Orionis~C}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.75 \newcommand
-                {\lsol}{L{$_{\odot}$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.75 \newcommand{\lsol
-                      }{L{$_{\odot}$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.76 \newcommand
-                {\kms}{km~s{$^{-1}$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.76 \newcommand{\kms
-                     }{km~s{$^{-1}$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.77 \newcommand
-                {\hii}{H{\sc ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.77 \newcommand{\hii
-                     }{H{\sc ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.77 \newcommand{\hii}{H{\sc
-                             ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.78 \newcommand
-                {\Hii}{H~{\sc ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.78 \newcommand{\Hii
-                     }{H~{\sc ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.78 \newcommand{\Hii}{H~{\sc
-                              ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.79 \newcommand
-                {\Ha}{\mbox{H$\alpha$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.79 \newcommand{\Ha
-                    }{\mbox{H$\alpha$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.79 \newcommand{\Ha}{\mbox
-                           {H$\alpha$}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.80 \newcommand
-                {\sii}{S~{\sc ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.80 \newcommand{\sii
-                     }{S~{\sc ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.80 \newcommand{\sii}{S~{\sc
-                              ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.81 \newcommand
-                {\Feii}{Fe~{\sc ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.81 \newcommand{\Feii
-                      }{Fe~{\sc ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.81 \newcommand{\Feii}{Fe~{\sc
-                                ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.82 \newcommand
-                {\oi}{O~{\sc i}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.82 \newcommand{\oi
-                    }{O~{\sc i}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.82 \newcommand{\oi}{O~{\sc
-                             i}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.83 \newcommand
-                {\nii}{N~{\sc ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.83 \newcommand{\nii
-                     }{N~{\sc ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.83 \newcommand{\nii}{N~{\sc
-                              ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.84 \newcommand
-                {\oiii}{O~{\sc iii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.84 \newcommand{\oiii
-                      }{O~{\sc iii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.84 \newcommand{\oiii}{O~{\sc
-                               iii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.85 \newcommand
-                {\mgii}{Mg~{\sc ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.85 \newcommand{\mgii
-                      }{Mg~{\sc ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.85 \newcommand{\mgii}{Mg~{\sc
-                                ii}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.86 \newcommand
-                {\tco}{{$^{13}$CO}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.86 \newcommand{\tco
-                     }{{$^{13}$CO}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.87 \newcommand
-                {\CO}{{$^{12}$CO}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.87 \newcommand{\CO
-                    }{{$^{12}$CO}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.88 \newcommand
-                {\Tco}{{$^{12}$CO}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.88 \newcommand{\Tco
-                     }{{$^{12}$CO}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.89 \newcommand
-                {\co}{C{$^{18}$O}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.89 \newcommand{\co
-                    }{C{$^{18}$O}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.90 \newcommand
-                {\Lsol}{L$_{\odot}$}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.90 \newcommand{\Lsol
-                      }{L$_{\odot}$}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.91 \newcommand
-                {\Msol}{M$_{\odot}$}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.91 \newcommand{\Msol
-                      }{M$_{\odot}$}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.94 \newcommand
-                {\mum}{\ensuremath{\mu \mathrm{m}}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.94 \newcommand{\mum
-                     }{\ensuremath{\mu \mathrm{m}}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.94 \newcommand{\mum}{\ensuremath
-                                  {\mu \mathrm{m}}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-<to be read again> 
-                   \mu 
-l.94 \newcommand{\mum}{\ensuremath{\mu
-                                       \mathrm{m}}}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Undefined control sequence.
-l.94 \newcommand{\mum}{\ensuremath{\mu \mathrm
-                                              {m}}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Extra }, or forgotten $.
-l.94 \newcommand{\mum}{\ensuremath{\mu \mathrm{m}}
-                                                  }
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten $.
-l.94 ...command{\mum}{\ensuremath{\mu \mathrm{m}}}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Undefined control sequence.
-l.95 \newcommand
-                {\flux}{flux density}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.95 \newcommand{\flux
-                      }{flux density}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.96 \newcommand
-                {\solar}{\ensuremath{\odot}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.96 \newcommand{\solar
-                       }{\ensuremath{\odot}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.96 \newcommand{\solar}{\ensuremath
-                                    {\odot}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.97 \newcommand
-                {\lon}{\ensuremath{l}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.97 \newcommand{\lon
-                     }{\ensuremath{l}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.97 \newcommand{\lon}{\ensuremath
-                                  {l}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.98 \newcommand
-                \jyb{Jy~beam$^{-1}$}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.98 \newcommand\jyb
-                    {Jy~beam$^{-1}$}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing } inserted.
-<inserted text> 
-                }
-<to be read again> 
-                   $
-l.98 \newcommand\jyb{Jy~beam$
-                             ^{-1}$}
-(That makes 100 errors; please try again.)
-!  ==> Fatal error occurred, no output PDF file produced!
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, et
+hiopic, farsi, arabic, pinyin, croatian, bulgarian, ukrainian, russian, slovak,
+ czech, danish, dutch, usenglishmax, ukenglish, finnish, french, basque, ngerma
+n, german, swissgerman, ngerman-x-2012-05-30, german-x-2012-05-30, monogreek, g
+reek, ibycus, ancientgreek, hungarian, bengali, tamil, hindi, telugu, gujarati,
+ sanskrit, malayalam, kannada, assamese, marathi, oriya, panjabi, italian, lati
+n, latvian, lithuanian, mongolian, mongolianlmc, nynorsk, bokmal, indonesian, e
+speranto, coptic, welsh, irish, interlingua, serbian, serbianc, slovenian, friu
+lan, romansh, estonian, romanian, armenian, uppersorbian, turkish, afrikaans, i
+celandic, kurmanji, polish, portuguese, galician, catalan, spanish, swedish, uk
+english, thai, loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/aastex/aastex.cls
+Document Class: aastex 2005/06/22 5.2/AAS markup document class
+Class aastex Info: Original \LaTeX2.09 style by Chris Biemesderfer (chris@seago
+at.com). Adapted to \LaTeXe by A. Ogawa (ogawa@teleport.com) on input line 83.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count88
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
+\@slugcmmntwidth=\dimen105
+\abstract@box=\box26
+\c@editornote=\count89
+\c@cureqno=\count90
+\tnotemarkskip=\skip45
+\@abovenoteskip=\dimen106
+\pt@box=\box27
+\pt@width=\dimen107
+\pt@line=\count91
+\pt@column=\count92
+\pt@nlines=\count93
+\pt@ncol=\count94
+\pt@page=\count95
+\tabbaseskip=\dimen108
+\pt@tmpcapwidth=\dimen109
+\spew@tblnotesbox=\box28
+\restof@tblnotesbox=\box29
+\noteheight=\dimen110
+\pt@tabnoteminht=\dimen111
+\firsttabskip=\dimen112
+\captionbox=\box30
+\pt@reduceline=\dimen113
+\extra@vspace=\dimen114
+\c@plate=\count96
+\my@footins=\box31
+)
+(/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count97
+\rotFPtop=\skip46
+\rotFPbot=\skip47
+\rot@float@box=\box32
+\rot@mess@toks=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip48
+\subfigcapskip=\skip49
+\subfigcaptopadj=\dimen115
+\subfigbottomskip=\skip50
+\subfigcapmargin=\dimen116
+\subfiglabelskip=\skip51
+\c@subfigure=\count98
+\c@lofdepth=\count99
+\c@subtable=\count100
+\c@lotdepth=\count101
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip52
+\subfig@bottom=\skip53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+) (./ms.aux)
+\openout1 = `ms.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 198.
+LaTeX Font Info:    ... okay on input line 198.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 198.
+LaTeX Font Info:    ... okay on input line 198.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 198.
+LaTeX Font Info:    ... okay on input line 198.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 198.
+LaTeX Font Info:    ... okay on input line 198.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 198.
+LaTeX Font Info:    ... okay on input line 198.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 198.
+LaTeX Font Info:    ... okay on input line 198.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count102
+\scratchdimen=\dimen117
+\scratchbox=\box33
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen118
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+AAS preprint substyle, v5.2 <12 Dec 2003>.
+\c@subfig=\count108
+LaTeX Font Info:    Try loading font information for U+lasy on input line 260.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 260.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 260.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+
+Package natbib Warning: Citation `dame01' on page 3 undefined on input line 343
+.
+
+
+Package natbib Warning: Citation `jackson06' on page 3 undefined on input line 
+343.
+
+
+Package natbib Warning: Citation `stark06' on page 3 undefined on input line 34
+7.
+
+
+Package natbib Warning: Citation `RotationCurve' on page 3 undefined on input l
+ine 348.
+
+
+Package natbib Warning: Citation `reid09' on page 3 undefined on input line 349
+.
+
+
+Package natbib Warning: Citation `egan98' on page 3 undefined on input line 358
+.
+
+
+Package natbib Warning: Citation `carey98' on page 3 undefined on input line 35
+9.
+
+
+Package natbib Warning: Citation `simon06a' on page 3 undefined on input line 3
+60.
+
+
+Package natbib Warning: Citation `peretto09' on page 3 undefined on input line 
+360.
+
+
+Package natbib Warning: Citation `rathborne06' on page 3 undefined on input lin
+e 363.
+
+
+Package natbib Warning: Citation `rathborne08' on page 3 undefined on input lin
+e 363.
+
+
+Package natbib Warning: Citation `lada91' on page 3 undefined on input line 377
+.
+
+
+Package natbib Warning: Citation `enoch07' on page 3 undefined on input line 37
+7.
+
+
+Package natbib Warning: Citation `evans09' on page 3 undefined on input line 37
+7.
+
+
+Package natbib Warning: Citation `williams00' on page 3 undefined on input line
+ 378.
+
+
+Package natbib Warning: Citation `mckee07' on page 3 undefined on input line 37
+8.
+
+
+Package natbib Warning: Citation `mueller02' on page 3 undefined on input line 
+383.
+
+
+Package natbib Warning: Citation `mckee07' on page 3 undefined on input line 38
+4.
+
+[3]
+
+Package natbib Warning: Citation `vandishoeck98' on page 4 undefined on input l
+ine 394.
+
+
+Package natbib Warning: Citation `buckle09' on page 4 undefined on input line 4
+05.
+
+
+Package natbib Warning: Citation `johnstone06' on page 4 undefined on input lin
+e 416.
+
+
+Package natbib Warning: Citation `holland99' on page 4 undefined on input line 
+422.
+
+
+Package natbib Warning: Citation `difrancesco08' on page 4 undefined on input l
+ine 425.
+
+
+Package natbib Warning: Citation `enoch07' on page 4 undefined on input line 43
+0.
+
+
+Package natbib Warning: Citation `kauffmann08' on page 4 undefined on input lin
+e 431.
+
+
+Package natbib Warning: Citation `rathborne06' on page 4 undefined on input lin
+e 433.
+
+
+Package natbib Warning: Citation `motte07' on page 4 undefined on input line 43
+3.
+
+[4]
+
+Package natbib Warning: Citation `olmi09' on page 5 undefined on input line 439
+.
+
+
+Package natbib Warning: Citation `roy10' on page 5 undefined on input line 439.
+
+
+
+Package natbib Warning: Citation `netterfield09' on page 5 undefined on input l
+ine 439.
+
+
+Package natbib Warning: Citation `chapin08' on page 5 undefined on input line 4
+39.
+
+
+Package natbib Warning: Citation `schuller09' on page 5 undefined on input line
+ 444.
+
+
+Package natbib Warning: Citation `stil06' on page 5 undefined on input line 454
+.
+
+
+Package natbib Warning: Citation `benjamin03' on page 5 undefined on input line
+ 455.
+
+
+Package natbib Warning: Citation `carey09' on page 5 undefined on input line 45
+5.
+
+
+Package natbib Warning: Citation `jackson06' on page 5 undefined on input line 
+456.
+
+
+Package natbib Warning: Citation `schuller09' on page 5 undefined on input line
+ 457.
+
+
+Package natbib Warning: Citation `molinari10' on page 5 undefined on input line
+ 458.
+
+
+Package natbib Warning: Citation `difrancesco08b' on page 5 undefined on input 
+line 459.
+
+
+Package natbib Warning: Citation `rosolowsky10' on page 5 undefined on input li
+ne 471.
+
+[5]
+
+Package natbib Warning: Citation `glenn03' on page 6 undefined on input line 50
+1.
+
+[6] [7] [8]
+
+Package natbib Warning: Citation `difrancesco08' on page 9 undefined on input l
+ine 665.
+
+
+Package natbib Warning: Citation `difrancesco08' on page 9 undefined on input l
+ine 669.
+
+[9]
+
+Package natbib Warning: Citation `enoch06' on page 10 undefined on input line 7
+27.
+
+
+Package natbib Warning: Citation `cotton09' on page 10 undefined on input line 
+729.
+
+
+Package natbib Warning: Citation `kovacs08' on page 10 undefined on input line 
+730.
+
+
+Package natbib Warning: Citation `sayers09' on page 10 undefined on input line 
+731.
+
+[10] [11] [12]
+
+Package natbib Warning: Citation `sayers10' on page 13 undefined on input line 
+892.
+
+
+Package natbib Warning: Citation `laurent05' on page 13 undefined on input line
+ 899.
+
+
+Package natbib Warning: Citation `laurent05' on page 13 undefined on input line
+ 903.
+
+[13]
+
+Package natbib Warning: Citation `sayers09' on page 14 undefined on input line 
+944.
+
+[14]
+
+Package natbib Warning: Citation `hollis92' on page 15 undefined on input line 
+1008.
+
+[15] [16]
+
+Package natbib Warning: Citation `orton86' on page 17 undefined on input line 1
+101.
+
+
+Package natbib Warning: Citation `griffin93' on page 17 undefined on input line
+ 1101.
+
+[17]
+
+Package natbib Warning: Citation `sayers10' on page 18 undefined on input line 
+1164.
+
+[18]
+
+Package natbib Warning: Citation `rosolowsky10' on page 19 undefined on input l
+ine 1215.
+
+[19]
+
+Package natbib Warning: Citation `enoch06' on page 20 undefined on input line 1
+262.
+
+
+Package natbib Warning: Citation `young06' on page 20 undefined on input line 1
+262.
+
+
+Package natbib Warning: Citation `enoch07' on page 20 undefined on input line 1
+262.
+
+[20]
+
+Package natbib Warning: Citation `stil06' on page 21 undefined on input line 13
+26.
+
+[21]
+
+Package natbib Warning: Citation `motte07' on page 22 undefined on input line 1
+342.
+
+
+Package natbib Warning: Citation `motte01' on page 22 undefined on input line 1
+348.
+
+
+Package natbib Warning: Citation `kauffmann08' on page 22 undefined on input li
+ne 1350.
+
+
+Package natbib Warning: Citation `matthews09' on page 22 undefined on input lin
+e 1357.
+
+[22] [23]
+
+Package natbib Warning: Citation `rosolowsky10' on page 24 undefined on input l
+ine 1448.
+
+[24]
+
+Package natbib Warning: Citation `enoch08' on page 25 undefined on input line 1
+506.
+
+
+Package natbib Warning: Citation `Testi1998' on page 25 undefined on input line
+ 1506.
+
+
+Package natbib Warning: Citation `beuther04' on page 25 undefined on input line
+ 1507.
+
+
+Package natbib Warning: Citation `johnstone99' on page 25 undefined on input li
+ne 1507.
+
+
+Package natbib Warning: Citation `cyganowski07' on page 25 undefined on input l
+ine 1507.
+
+
+Package natbib Warning: Citation `benjamin03' on page 25 undefined on input lin
+e 1512.
+
+
+Package natbib Warning: Citation `stil06' on page 25 undefined on input line 15
+13.
+
+
+Package natbib Warning: Citation `battersby10' on page 25 undefined on input li
+ne 1534.
+
+
+Package natbib Warning: Citation `dame01' on page 25 undefined on input line 15
+44.
+
+
+Package natbib Warning: Citation `jackson06' on page 25 undefined on input line
+ 1544.
+
+
+Package natbib Warning: Citation `dame01' on page 25 undefined on input line 15
+47.
+
+[25]
+
+Package natbib Warning: Citation `IRDCdistance' on page 26 undefined on input l
+ine 1561.
+
+
+Package natbib Warning: Citation `jackson06' on page 26 undefined on input line
+ 1561.
+
+
+Package natbib Warning: Citation `schlingman10' on page 26 undefined on input l
+ine 1567.
+
+
+Package natbib Warning: Citation `dunham10' on page 26 undefined on input line 
+1567.
+
+
+Package natbib Warning: Citation `rosolowsky10' on page 26 undefined on input l
+ine 1570.
+
+
+Package natbib Warning: Citation `ossenkopf94' on page 26 undefined on input li
+ne 1577.
+
+
+Package natbib Warning: Citation `rosolowsky10' on page 26 undefined on input l
+ine 1592.
+
+
+Package natbib Warning: Citation `bally10' on page 26 undefined on input line 1
+595.
+
+
+Package natbib Warning: Citation `dunham10' on page 26 undefined on input line 
+1595.
+
+[26] [27]
+
+Package natbib Warning: Citation `reach95' on page 28 undefined on input line 1
+679.
+
+[28]
+Overfull \hbox (18.07025pt too wide) in paragraph at lines 1703--1703
+[]\OT1/cmtt/m/n/12 DATE    = '2009-04-13T19:33:03' / Creation UTC (CCCC-MM-DD) 
+date of FITS header[] 
+ []
+
+
+Overfull \hbox (24.24525pt too wide) in paragraph at lines 1711--1711
+[]\OT1/cmtt/m/n/12 CALIB_0 =         -3.26472E-15 / 0th coefficient for flux ca
+l (see methods paper[] 
+ []
+
+[29]
+Overfull \hbox (11.89525pt too wide) in paragraph at lines 1735--1735
+[]\OT1/cmtt/m/n/12 COMMENT FITS (Flexible Image Transport System) format is def
+ined in 'Astronomy[] 
+ []
+
+
+Overfull \hbox (24.24525pt too wide) in paragraph at lines 1740--1740
+[]\OT1/cmtt/m/n/12 COMMENT Pixel coverage is in the nhitsmap file (each hit rep
+resents .1s dwell ti[] 
+ []
+
+
+Overfull \hbox (18.07025pt too wide) in paragraph at lines 1744--1744
+[]\OT1/cmtt/m/n/12 HISTORY PUTAST: Apr  7 09:22:26 2009 World Coordinate System
+ parameters written[] 
+ []
+
+[30] [31] (./ms.bbl) [32]
+Plotone included the file f1
+<f1.pdf, id=121, 543.02875pt x 270.00874pt>
+File: f1.pdf Graphic file (type pdf)
+ <use f1.pdf>
+Package pdftex.def Info: f1.pdf used on input line 1798.
+(pdftex.def)             Requested size: 469.75499pt x 233.58318pt.
+
+Plotone included the file f2
+<f2.pdf, id=122, 429.605pt x 537.00626pt>
+File: f2.pdf Graphic file (type pdf)
+ <use f2.pdf>
+Package pdftex.def Info: f2.pdf used on input line 1813.
+(pdftex.def)             Requested size: 328.82706pt x 411.03787pt.
+
+Plotone included the file f3
+<f3.pdf, id=123, 505.89pt x 361.35pt>
+File: f3.pdf Graphic file (type pdf)
+ <use f3.pdf>
+Package pdftex.def Info: f3.pdf used on input line 1820.
+(pdftex.def)             Requested size: 704.63248pt x 503.31715pt.
+
+Overfull \hbox (234.87749pt too wide) in paragraph at lines 1820--1820
+ [][] 
+ []
+
+<f4a.pdf, id=124, 505.89pt x 433.62pt>
+File: f4a.pdf Graphic file (type pdf)
+ <use f4a.pdf>
+Package pdftex.def Info: f4a.pdf used on input line 1832.
+(pdftex.def)             Requested size: 303.53633pt x 260.17401pt.
+
+<f4b.pdf, id=125, 505.89pt x 289.08pt>
+File: f4b.pdf Graphic file (type pdf)
+ <use f4b.pdf>
+Package pdftex.def Info: f4b.pdf used on input line 1837.
+(pdftex.def)             Requested size: 303.53633pt x 173.44933pt.
+
+
+LaTeX Warning: Float too large for page by 3.80089pt on input line 1843.
+
+<f5a.pdf, id=126, 545.03625pt x 199.74625pt>
+File: f5a.pdf Graphic file (type pdf)
+ <use f5a.pdf>
+Package pdftex.def Info: f5a.pdf used on input line 1856.
+(pdftex.def)             Requested size: 436.0296pt x 159.79721pt.
+
+<f5b.pdf, id=127, 505.89pt x 361.35pt>
+File: f5b.pdf Graphic file (type pdf)
+ <use f5b.pdf>
+Package pdftex.def Info: f5b.pdf used on input line 1863.
+(pdftex.def)             Requested size: 227.64839pt x 162.60599pt.
+
+<f5c.pdf, id=128, 505.89pt x 361.35pt>
+File: f5c.pdf Graphic file (type pdf)
+ <use f5c.pdf>
+Package pdftex.def Info: f5c.pdf used on input line 1871.
+(pdftex.def)             Requested size: 227.64839pt x 162.60599pt.
+
+
+Package natbib Warning: Citation `difrancesco08' on page 33 undefined on input 
+line 1871.
+
+
+Package natbib Warning: Citation `difrancesco08' on page 33 undefined on input 
+line 1871.
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 1871--1871
+[]\OT1/cmr/m/n/10 (c) The mea-sured off-set be-tween Bolo-cam and
+ []
+
+<f6a.pdf, id=129, 505.89pt x 361.35pt>
+File: f6a.pdf Graphic file (type pdf)
+ <use f6a.pdf>
+Package pdftex.def Info: f6a.pdf used on input line 1891.
+(pdftex.def)             Requested size: 455.29678pt x 325.21199pt.
+
+<f6b.pdf, id=130, 505.89pt x 361.35pt>
+File: f6b.pdf Graphic file (type pdf)
+ <use f6b.pdf>
+Package pdftex.def Info: f6b.pdf used on input line 1909.
+(pdftex.def)             Requested size: 455.29678pt x 325.21199pt.
+
+<f6c.pdf, id=131, 505.89pt x 361.35pt>
+File: f6c.pdf Graphic file (type pdf)
+ <use f6c.pdf>
+Package pdftex.def Info: f6c.pdf used on input line 1929.
+(pdftex.def)             Requested size: 455.29678pt x 325.21199pt.
+
+<f7a.pdf, id=132, 362.35374pt x 723.70375pt>
+File: f7a.pdf Graphic file (type pdf)
+ <use f7a.pdf>
+Package pdftex.def Info: f7a.pdf used on input line 1950.
+(pdftex.def)             Requested size: 362.35286pt x 723.70198pt.
+
+<f7b.pdf, id=133, 362.35374pt x 723.70375pt>
+File: f7b.pdf Graphic file (type pdf)
+ <use f7b.pdf>
+Package pdftex.def Info: f7b.pdf used on input line 1956.
+(pdftex.def)             Requested size: 362.35286pt x 723.70198pt.
+
+
+LaTeX Warning: Float too large for page by 76.8456pt on input line 1979.
+
+Plottwo included the files f8a f8b
+<f8a.pdf, id=134, 740.7675pt x 524.96124pt>
+File: f8a.pdf Graphic file (type pdf)
+ <use f8a.pdf>
+Package pdftex.def Info: f8a.pdf used on input line 1996.
+(pdftex.def)             Requested size: 169.11128pt x 119.84138pt.
+
+<f8b.pdf, id=135, 505.89pt x 361.35pt>
+File: f8b.pdf Graphic file (type pdf)
+ <use f8b.pdf>
+Package pdftex.def Info: f8b.pdf used on input line 1996.
+(pdftex.def)             Requested size: 169.11128pt x 120.79523pt.
+
+<f9a.pdf, id=136, 871.255pt x 751.80875pt>
+File: f9a.pdf Graphic file (type pdf)
+ <use f9a.pdf>
+Package pdftex.def Info: f9a.pdf used on input line 2003.
+(pdftex.def)             Requested size: 217.81322pt x 187.95172pt.
+
+<f9b.pdf, id=137, 871.255pt x 751.80875pt>
+File: f9b.pdf Graphic file (type pdf)
+ <use f9b.pdf>
+Package pdftex.def Info: f9b.pdf used on input line 2008.
+(pdftex.def)             Requested size: 217.81322pt x 187.95172pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 2001--2011
+[]$[]$ $[]$ 
+ []
+
+Plotone included the file f10
+<f10.pdf, id=138, 819.06pt x 498.86375pt>
+File: f10.pdf Graphic file (type pdf)
+ <use f10.pdf>
+Package pdftex.def Info: f10.pdf used on input line 2038.
+(pdftex.def)             Requested size: 469.75499pt x 286.12128pt.
+
+Plotone included the file f11
+<f11.pdf, id=139, 767.86874pt x 542.025pt>
+File: f11.pdf Graphic file (type pdf)
+ <use f11.pdf>
+Package pdftex.def Info: f11.pdf used on input line 2045.
+(pdftex.def)             Requested size: 469.75499pt x 331.59415pt.
+
+Plottwo included the files f12a f12b
+<f12a.pdf, id=140, 505.89pt x 361.35pt>
+File: f12a.pdf Graphic file (type pdf)
+ <use f12a.pdf>
+Package pdftex.def Info: f12a.pdf used on input line 2058.
+(pdftex.def)             Requested size: 211.3883pt x 150.99403pt.
+
+<f12b.pdf, id=141, 505.89pt x 361.35pt>
+File: f12b.pdf Graphic file (type pdf)
+ <use f12b.pdf>
+Package pdftex.def Info: f12b.pdf used on input line 2058.
+(pdftex.def)             Requested size: 211.3883pt x 150.99403pt.
+
+Plotone included the file f13
+<f13.pdf, id=142, 505.89pt x 361.35pt>
+File: f13.pdf Graphic file (type pdf)
+ <use f13.pdf>
+Package pdftex.def Info: f13.pdf used on input line 2067.
+(pdftex.def)             Requested size: 469.75499pt x 335.54477pt.
+
+Plottwo included the files f14a f14b
+<f14a.pdf, id=143, 752.8125pt x 516.93124pt>
+File: f14a.pdf Graphic file (type pdf)
+ <use f14a.pdf>
+Package pdftex.def Info: f14a.pdf used on input line 2079.
+(pdftex.def)             Requested size: 211.3883pt x 145.14992pt.
+
+<f14b.pdf, id=144, 741.77126pt x 517.935pt>
+File: f14b.pdf Graphic file (type pdf)
+ <use f14b.pdf>
+Package pdftex.def Info: f14b.pdf used on input line 2079.
+(pdftex.def)             Requested size: 211.3883pt x 147.5972pt.
+
+Plotone included the file f15
+<f15.pdf, id=145, 505.89pt x 361.35pt>
+File: f15.pdf Graphic file (type pdf)
+ <use f15.pdf>
+Package pdftex.def Info: f15.pdf used on input line 2093.
+(pdftex.def)             Requested size: 469.75499pt x 335.54477pt.
+ [33 <./f1.pdf>] [34 <./f2.pdf>] [35 <./f3.pdf>] [36 <./f4a.pdf> <./f4b.pdf>] [
+37 <./f5a.pdf> <./f5b.pdf> <./f5c.pdf>] [38 <./f6a.pdf>] [39 <./f6b.pdf>] [40 <
+./f6c.pdf>] [41 <./f7a.pdf> <./f7b.pdf>] [42 <./f8a.pdf> <./f8b.pdf>] [43 <./f9
+a.pdf> <./f9b.pdf>]
+[44 <./f10.pdf>] [45 <./f11.pdf>] [46 <./f12a.pdf> <./f12b.pdf>] [47 <./f13.pdf
+>] [48 <./f14a.pdf> <./f14b.pdf>] [49 <./f15.pdf>]
+Plotone included the file f16
+<f16.pdf, id=270, 505.89pt x 361.35pt>
+File: f16.pdf Graphic file (type pdf)
+ <use f16.pdf>
+Package pdftex.def Info: f16.pdf used on input line 2114.
+(pdftex.def)             Requested size: 469.75499pt x 335.54477pt.
+
+
+Package natbib Warning: Citation `nummelin1998' on page 50 undefined on input l
+ine 2114.
+
+
+Package natbib Warning: Citation `nummelin1998' on page 50 undefined on input l
+ine 2114.
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 2114--2114
+\OT1/cmr/m/n/12 Fig. 16.--- Top: the Bolo-cam 1.1 mm band-pass (thick line). Al
+so shown
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 2114--2114
+\OT1/cmr/m/n/12 is the at-mo-spheric trans-mis-sion at Mauna Kea for 1 mm of pr
+e-cip-itable wa-
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 2114--2114
+\OT1/cmr/m/n/12 ter va-por (thin line). The grey curve is the MAMBO-2 band-pass
+ (taken
+ []
+
+Plottwo included the files f17a f17b
+<f17a.pdf, id=271, 506.89375pt x 362.35374pt>
+File: f17a.pdf Graphic file (type pdf)
+ <use f17a.pdf>
+Package pdftex.def Info: f17a.pdf used on input line 2124.
+(pdftex.def)             Requested size: 211.3883pt x 151.10936pt.
+
+<f17b.pdf, id=272, 426.59375pt x 426.59375pt>
+File: f17b.pdf Graphic file (type pdf)
+ <use f17b.pdf>
+Package pdftex.def Info: f17b.pdf used on input line 2124.
+(pdftex.def)             Requested size: 211.3883pt x 211.38911pt.
+
+Plotone included the file f18
+<f18.pdf, id=273, 506.89375pt x 506.89375pt>
+File: f18.pdf Graphic file (type pdf)
+ <use f18.pdf>
+Package pdftex.def Info: f18.pdf used on input line 2135.
+(pdftex.def)             Requested size: 469.75499pt x 469.76659pt.
+
+<f19a.pdf, id=274, 434.62375pt x 687.56876pt>
+File: f19a.pdf Graphic file (type pdf)
+ <use f19a.pdf>
+Package pdftex.def Info: f19a.pdf used on input line 2149.
+(pdftex.def)             Requested size: 347.69946pt x 550.05576pt.
+
+
+LaTeX Warning: Float too large for page by 57.40527pt on input line 2162.
+
+<f19b.pdf, id=275, 434.62375pt x 687.56876pt>
+File: f19b.pdf Graphic file (type pdf)
+ <use f19b.pdf>
+Package pdftex.def Info: f19b.pdf used on input line 2171.
+(pdftex.def)             Requested size: 347.69946pt x 550.05576pt.
+
+
+LaTeX Warning: Float too large for page by 19.45522pt on input line 2179.
+
+<f19c.pdf, id=276, 434.62375pt x 687.56876pt>
+File: f19c.pdf Graphic file (type pdf)
+ <use f19c.pdf>
+Package pdftex.def Info: f19c.pdf used on input line 2186.
+(pdftex.def)             Requested size: 347.69946pt x 550.05576pt.
+
+<f19d.pdf, id=277, 687.56876pt x 434.62375pt>
+File: f19d.pdf Graphic file (type pdf)
+ <use f19d.pdf>
+Package pdftex.def Info: f19d.pdf used on input line 2196.
+(pdftex.def)             Requested size: 481.29485pt x 304.23454pt.
+
+Overfull \hbox (11.53986pt too wide) in paragraph at lines 2196--2197
+[][] 
+ []
+
+<f19j.pdf, id=278, 543.02875pt x 274.02374pt>
+File: f19j.pdf Graphic file (type pdf)
+ <use f19j.pdf>
+Package pdftex.def Info: f19j.pdf used on input line 2198.
+(pdftex.def)             Requested size: 434.42357pt x 219.21928pt.
+
+
+LaTeX Warning: Float too large for page by 13.85329pt on input line 2209.
+
+<f19e.pdf, id=279, 587.19376pt x 434.62375pt>
+File: f19e.pdf Graphic file (type pdf)
+ <use f19e.pdf>
+Package pdftex.def Info: f19e.pdf used on input line 2216.
+(pdftex.def)             Requested size: 587.19232pt x 434.62268pt.
+
+Overfull \hbox (117.43733pt too wide) in paragraph at lines 2216--2218
+ [] 
+ []
+
+<f19f.pdf, id=280, 587.19376pt x 434.62375pt>
+File: f19f.pdf Graphic file (type pdf)
+ <use f19f.pdf>
+Package pdftex.def Info: f19f.pdf used on input line 2227.
+(pdftex.def)             Requested size: 587.19232pt x 434.62268pt.
+
+Overfull \hbox (117.43733pt too wide) in paragraph at lines 2227--2229
+ [] 
+ []
+
+<f19g.pdf, id=281, 588.1975pt x 434.62375pt>
+File: f19g.pdf Graphic file (type pdf)
+ <use f19g.pdf>
+Package pdftex.def Info: f19g.pdf used on input line 2238.
+(pdftex.def)             Requested size: 588.19606pt x 434.62268pt.
+
+Overfull \hbox (118.44107pt too wide) in paragraph at lines 2238--2240
+ [] 
+ []
+
+<f19h.pdf, id=282, 587.19376pt x 434.62375pt>
+File: f19h.pdf Graphic file (type pdf)
+ <use f19h.pdf>
+Package pdftex.def Info: f19h.pdf used on input line 2249.
+(pdftex.def)             Requested size: 587.19232pt x 434.62268pt.
+
+Overfull \hbox (117.43733pt too wide) in paragraph at lines 2249--2251
+ [] 
+ []
+
+<f19i.pdf, id=283, 687.56876pt x 434.62375pt>
+File: f19i.pdf Graphic file (type pdf)
+ <use f19i.pdf>
+Package pdftex.def Info: f19i.pdf used on input line 2260.
+(pdftex.def)             Requested size: 481.29485pt x 304.23454pt.
+
+Overfull \hbox (11.53986pt too wide) in paragraph at lines 2260--2262
+ [] 
+ []
+
+
+Package natbib Warning: Citation `dunham10' on page 50 undefined on input line 
+2262.
+
+[50 <./f16.pdf>] [51 <./f17a.pdf> <./f17b.pdf>] [52 <./f18.pdf>] [53 <./f19a.pd
+f>] [54 <./f19b.pdf>] [55 <./f19c.pdf>] [56 <./f19d.pdf> <./f19j.pdf>] [57 <./f
+19e.pdf>] [58 <./f19f.pdf>] [59 <./f19g.pdf>] [60 <./f19h.pdf>] [61 <./f19i.pdf
+>] <f20.pdf, id=365, 511.9125pt x 625.33624pt>
+File: f20.pdf Graphic file (type pdf)
+ <use f20.pdf>
+Package pdftex.def Info: f20.pdf used on input line 2274.
+(pdftex.def)             Requested size: 409.53056pt x 500.26967pt.
+
+
+LaTeX Warning: Float too large for page by 14.5693pt on input line 2289.
+
+Plotone included the file f21
+<f21.pdf, id=366, 543.02875pt x 403.5075pt>
+File: f21.pdf Graphic file (type pdf)
+ <use f21.pdf>
+Package pdftex.def Info: f21.pdf used on input line 2299.
+(pdftex.def)             Requested size: 469.75499pt x 349.07228pt.
+
+Plotone included the file f22
+<f22.pdf, id=367, 543.02875pt x 403.5075pt>
+File: f22.pdf Graphic file (type pdf)
+ <use f22.pdf>
+Package pdftex.def Info: f22.pdf used on input line 2309.
+(pdftex.def)             Requested size: 469.75499pt x 349.07228pt.
+
+Plotone included the file f23
+<f23.pdf, id=368, 814.04124pt x 531.9875pt>
+File: f23.pdf Graphic file (type pdf)
+ <use f23.pdf>
+Package pdftex.def Info: f23.pdf used on input line 2319.
+(pdftex.def)             Requested size: 469.75499pt x 306.99442pt.
+
+
+Package natbib Warning: Citation `jackson06' on page 62 undefined on input line
+ 2319.
+
+Page 1 of table 2 has been set to width 204.8983pt with 34 lines per page 
+
+Overfull \hbox (469.75499pt too wide) in paragraph at lines 2334--2334
+ [][][] 
+ []
+
+Page 1 of table 3 has been set to width 244.14497pt with 34 lines per page 
+
+Overfull \hbox (469.75499pt too wide) in paragraph at lines 2346--2346
+ [][][] 
+ []
+
+Page 1 of table 4 has been set to width 330.9139pt with 34 lines per page 
+
+Overfull \hbox (469.75499pt too wide) in paragraph at lines 2357--2357
+ [][][] 
+ []
+
+Page 1 of table 5 has been set to width 264.08382pt with 34 lines per page 
+[62] [63 <./f20.pdf>] [64 <./f21.pdf>] [65 <./f22.pdf>] [66 <./f23.pdf>]
+[67]
+
+Package natbib Warning: There were undefined citations.
+
+(./ms.aux) ) 
+Here is how much of TeX's memory you used:
+ 3450 strings out of 493473
+ 44190 string characters out of 3143123
+ 126674 words of memory out of 3000000
+ 6659 multiletter control sequences out of 15000+200000
+ 12825 words of font info for 54 fonts, out of 3000000 for 9000
+ 965 hyphenation exceptions out of 8191
+ 38i,14n,33p,1344b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on ms.pdf (67 pages, 2604481 bytes).
+PDF statistics:
+ 465 PDF objects out of 1000 (max. 8388607)
+ 306 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
+

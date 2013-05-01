@@ -47,6 +47,17 @@
 
 % Get more information about latex package by using command   texdoc <packagename> , for example: texdoc rotating
 % or visit this website: http://www.texdoc.net/   and search for the packagename
+% Build procedure in texmaker 4.0.1 or texstudio 2.2 (svn):
+% 1) press Tools:Clean within texmaker to delete old output files
+% 2) press F11,F1,F11 and F1 within texmaker menu 
+% to correctly compile this .tex file into a valid .PDF output file.
+% use the Terminal command  "texdoc <packagename>" to get documentation about a specific tex package
+% always save graphics files in .PDF format, not in .JPG or .PNG format
+% The titling package offers features to create sophisticated title pages.
+% The tocbibind package can automatically add bibliography, index, TOC, LOF, and LOT to the table
+% of contents. It's even capable of using numbered headings instead of the default
+% unnumbered ones.
+% Use \citep{kennedy1998cationic}  for example when citing bibliography references in the .bib bibtex file
 
 \usepackage{rotating}
 \usepackage{subfigure}
@@ -269,7 +280,7 @@ The survey has detected approximately \ncoresapprox\ clumps over the
 entire area to a limiting non-uniform 1-$\sigma$ noise level in the
 range \bgpsdepthlow\ to \bgpsdepthhigh\ m\jyb\ in the inner Galaxy.
 The BGPS source catalog is presented in a companion paper
-\citep{rosolowsky10}.  This paper details the survey observations and
+\citep{kennedy1998cationic}.  This paper details the survey observations and
 data reduction methods for the images.  We discuss in detail the
 determination of astrometric and flux density calibration
 uncertainties and compare our results to the literature.  Data
@@ -1775,325 +1786,9 @@ END
 
 %\bibliography{milkyway}
 
-\begin{thebibliography}{61}
-\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
-
-\bibitem[{{Bally} {et~al.}(2010){Bally}, {Aguirre}, {Battersby}, {Bradley},
-  {Cyganowski}, {Dowell}, {Drosback}, {Dunham}, {Evans}, {Ginsburg}, {Glenn},
-  {Harvey}, {Mills}, {Merello}, {Rosolowsky}, {Schlingman}, {Shirley},
-  {Stringfellow}, {Walawender}, \& {Williams}}]{bally10}
-{Bally}, J. {et~al.} 2010, \apj, 721, 137
-
-\bibitem[{{Battersby} {et~al.}(2010){Battersby}, {Bally}, {Jackson},
-  {Ginsburg}, {Shirley}, {Schlingman}, \& {Glenn}}]{battersby10}
-{Battersby}, C., {Bally}, J., {Jackson}, J.~M., {Ginsburg}, A., {Shirley},
-  Y.~L., {Schlingman}, W., \& {Glenn}, J. 2010, \apj, 721, 222
-
-\bibitem[{{Benjamin} {et~al.}(2003){Benjamin}, {Churchwell}, {Babler}, {Bania},
-  {Clemens}, {Cohen}, {Dickey}, {Indebetouw}, {Jackson}, {Kobulnicky},
-  {Lazarian}, {Marston}, {Mathis}, {Meade}, {Seager}, {Stolovy}, {Watson},
-  {Whitney}, {Wolff}, \& {Wolfire}}]{benjamin03}
-{Benjamin}, R.~A. {et~al.} 2003, \pasp, 115, 953
-
-\bibitem[{{Beuther} {et~al.}(2004){Beuther}, {Zhang}, {Greenhill}, {Reid},
-  {Wilner}, {Keto}, {Marrone}, {Ho}, {Moran}, {Rao}, {Shinnaga}, \&
-  {Liu}}]{beuther04}
-{Beuther}, H. {et~al.} 2004, \apjl, 616, L31
-
-\bibitem[{{Buckle} {et~al.}(2009){Buckle}, {Hills}, {Smith}, {Dent}, {Bell},
-  {Curtis}, {Dace}, {Gibson}, {Graves}, {Leech}, {Richer}, {Williamson},
-  {Withington}, {Yassin}, {Bennett}, {Hastings}, {Laidlaw}, {Lightfoot},
-  {Burgess}, {Dewdney}, {Hovey}, {Willis}, {Redman}, {Wooff}, {Berry},
-  {Cavanagh}, {Davis}, {Dempsey}, {Friberg}, {Jenness}, {Kackley}, {Rees},
-  {Tilanus}, {Walther}, {Zwart}, {Klapwijk}, {Kroug}, \& {Zijlstra}}]{buckle09}
-{Buckle}, J.~V. {et~al.} 2009, \mnras, 399, 1026
-
-\bibitem[{{Carey} {et~al.}(1998){Carey}, {Clark}, {Egan}, {Price}, {Shipman},
-  \& {Kuchar}}]{carey98}
-{Carey}, S.~J., {Clark}, F.~O., {Egan}, M.~P., {Price}, S.~D., {Shipman},
-  R.~F., \& {Kuchar}, T.~A. 1998, \apj, 508, 721
-
-\bibitem[{{Carey} {et~al.}(2009){Carey}, {Noriega-Crespo}, {Mizuno}, {Shenoy},
-  {Paladini}, {Kraemer}, {Price}, {Flagey}, {Ryan}, {Ingalls}, {Kuchar},
-  {Pinheiro Gon{\c c}alves}, {Indebetouw}, {Billot}, {Marleau}, {Padgett},
-  {Rebull}, {Bressert}, {Ali}, {Molinari}, {Martin}, {Berriman}, {Boulanger},
-  {Latter}, {Miville-Deschenes}, {Shipman}, \& {Testi}}]{carey09}
-{Carey}, S.~J. {et~al.} 2009, \pasp, 121, 76
-
-\bibitem[{{Chapin} {et~al.}(2008){Chapin}, {Ade}, {Bock}, {Brunt}, {Devlin},
-  {Dicker}, {Griffin}, {Gundersen}, {Halpern}, {Hargrave}, {Hughes}, {Klein},
-  {Marsden}, {Martin}, {Mauskopf}, {Netterfield}, {Olmi}, {Pascale},
-  {Patanchon}, {Rex}, {Scott}, {Semisch}, {Truch}, {Tucker}, {Tucker}, {Viero},
-  \& {Wiebe}}]{chapin08}
-{Chapin}, E.~L. {et~al.} 2008, \apj, 681, 428
-
-\bibitem[{{Cotton} {et~al.}(2009){Cotton}, {Mason}, {Dicker}, {Korngut},
-  {Devlin}, {Aquirre}, {Benford}, {Moseley}, {Staguhn}, {Irwin}, \&
-  {Ade}}]{cotton09}
-{Cotton}, W.~D. {et~al.} 2009, \apj, 701, 1872
-
-\bibitem[{{Cyganowski} {et~al.}(2007){Cyganowski}, {Brogan}, \&
-  {Hunter}}]{cyganowski07}
-{Cyganowski}, C.~J., {Brogan}, C.~L., \& {Hunter}, T.~R. 2007, \aj, 134, 346
-
-\bibitem[{{Dame} {et~al.}(2001){Dame}, {Hartmann}, \& {Thaddeus}}]{dame01}
-{Dame}, T.~M., {Hartmann}, D., \& {Thaddeus}, P. 2001, \apj, 547, 792
-
-\bibitem[{{Di Francesco}(2008)}]{difrancesco08b}
-{Di Francesco}, J. 2008, in Bulletin of the American Astronomical Society,
-  Vol.~40, Bulletin of the American Astronomical Society, 271--+
-
-\bibitem[{{Di Francesco} {et~al.}(2008){Di Francesco}, {Johnstone}, {Kirk},
-  {MacKenzie}, \& {Ledwosinska}}]{difrancesco08}
-{Di Francesco}, J., {Johnstone}, D., {Kirk}, H., {MacKenzie}, T., \&
-  {Ledwosinska}, E. 2008, \apjs, 175, 277
-
-\bibitem[{{Dunham} {et~al.}(2010){Dunham}, {Rosolowsky}, {Evans}, {Cyganowski},
-  {Aguirre}, {Bally}, {Battersby}, {Bradley}, {Dowell}, {Drosback}, {Ginsburg},
-  {Glenn}, {Harvey}, {Merello}, {Schlingman}, {Shirley}, {Stringfellow},
-  {Walawender}, \& {Williams}}]{dunham10}
-{Dunham}, M.~K. {et~al.} 2010, \apj, 717, 1157
-
-\bibitem[{{Egan} {et~al.}(1998){Egan}, {Shipman}, {Price}, {Carey}, {Clark}, \&
-  {Cohen}}]{egan98}
-{Egan}, M.~P., {Shipman}, R.~F., {Price}, S.~D., {Carey}, S.~J., {Clark},
-  F.~O., \& {Cohen}, M. 1998, \apjl, 494, L199+
-
-\bibitem[{{Enoch} {et~al.}(2008){Enoch}, {Evans}, {Sargent}, {Glenn},
-  {Rosolowsky}, \& {Myers}}]{enoch08}
-{Enoch}, M.~L., {Evans}, II, N.~J., {Sargent}, A.~I., {Glenn}, J.,
-  {Rosolowsky}, E., \& {Myers}, P. 2008, \apj, 684, 1240
-
-\bibitem[{{Enoch} {et~al.}(2007){Enoch}, {Glenn}, {Evans}, {Sargent}, {Young},
-  \& {Huard}}]{enoch07}
-{Enoch}, M.~L., {Glenn}, J., {Evans}, II, N.~J., {Sargent}, A.~I., {Young},
-  K.~E., \& {Huard}, T.~L. 2007, \apj, 666, 982
-
-\bibitem[{{Enoch} {et~al.}(2006){Enoch}, {Young}, {Glenn}, {Evans}, {Golwala},
-  {Sargent}, {Harvey}, {Aguirre}, {Goldin}, {Haig}, {Huard}, {Lange},
-  {Laurent}, {Maloney}, {Mauskopf}, {Rossinot}, \& {Sayers}}]{enoch06}
-{Enoch}, M.~L. {et~al.} 2006, \apj, 638, 293
-
-\bibitem[{{Evans} {et~al.}(2009){Evans}, {Dunham}, {J{\o}rgensen}, {Enoch},
-  {Mer{\'{\i}}n}, {van Dishoeck}, {Alcal{\'a}}, {Myers}, {Stapelfeldt},
-  {Huard}, {Allen}, {Harvey}, {van Kempen}, {Blake}, {Koerner}, {Mundy},
-  {Padgett}, \& {Sargent}}]{evans09}
-{Evans}, N.~J. {et~al.} 2009, \apjs, 181, 321
-
-\bibitem[{{Glenn} {et~al.}(2003){Glenn}, {Ade}, {Amarie}, {Bock}, {Edgington},
-  {Goldin}, {Golwala}, {Haig}, {Lange}, {Laurent}, {Mauskopf}, {Yun}, \&
-  {Nguyen}}]{glenn03}
-{Glenn}, J. {et~al.} 2003, in \procspie, Vol. 4855, Millimeter and
-  Submillimeter Detectors for Astronomy, 30
-
-\bibitem[{{Griffin} \& {Orton}(1993)}]{griffin93}
-{Griffin}, M.~J. \& {Orton}, G.~S. 1993, Icarus, 105, 537
-
-\bibitem[{{Holland} {et~al.}(1999){Holland}, {Robson}, {Gear}, {Cunningham},
-  {Lightfoot}, {Jenness}, {Ivison}, {Stevens}, {Ade}, {Griffin}, {Duncan},
-  {Murphy}, \& {Naylor}}]{holland99}
-{Holland}, W.~S. {et~al.} 1999, \mnras, 303, 659
-
-\bibitem[{{Hollis} {et~al.}(1992){Hollis}, {Dorband}, \&
-  {Yusef-Zadeh}}]{hollis92}
-{Hollis}, J.~M., {Dorband}, J.~E., \& {Yusef-Zadeh}, F. 1992, \apj, 386, 293
-
-\bibitem[{{Jackson} {et~al.}(2006){Jackson}, {Rathborne}, {Shah}, {Simon},
-  {Bania}, {Clemens}, {Chambers}, {Johnson}, {Dormody}, {Lavoie}, \&
-  {Heyer}}]{jackson06}
-{Jackson}, J.~M. {et~al.} 2006, \apjs, 163, 145
-
-\bibitem[{{Johnstone} \& {Bally}(1999)}]{johnstone99}
-{Johnstone}, D. \& {Bally}, J. 1999, \apjl, 510, L49
-
-\bibitem[{{Johnstone} \& {Bally}(2006)}]{johnstone06}
----. 2006, \apj, 653, 383
-
-\bibitem[{{Kauffmann} {et~al.}(2008){Kauffmann}, {Bertoldi}, {Bourke}, {Evans},
-  \& {Lee}}]{kauffmann08}
-{Kauffmann}, J., {Bertoldi}, F., {Bourke}, T.~L., {Evans}, II, N.~J., \& {Lee},
-  C.~W. 2008, \aap, 487, 993
-
-\bibitem[{{Kov{\'a}cs}(2008)}]{kovacs08}
-{Kov{\'a}cs}, A. 2008, in Presented at the Society of Photo-Optical
-  Instrumentation Engineers (SPIE) Conference, Vol. 7020, Society of
-  Photo-Optical Instrumentation Engineers (SPIE) Conference Series
-
-\bibitem[{{Lada} {et~al.}(1991){Lada}, {Bally}, \& {Stark}}]{lada91}
-{Lada}, E.~A., {Bally}, J., \& {Stark}, A.~A. 1991, \apj, 368, 432
-
-\bibitem[{{Laurent} {et~al.}(2005){Laurent}, {Aguirre}, {Glenn}, {Ade}, {Bock},
-  {Edgington}, {Goldin}, {Golwala}, {Haig}, {Lange}, {Maloney}, {Mauskopf},
-  {Nguyen}, {Rossinot}, {Sayers}, \& {Stover}}]{laurent05}
-{Laurent}, G.~T. {et~al.} 2005, \apj, 623, 742
-
-\bibitem[{{Matthews} {et~al.}(2009){Matthews}, {Kirk}, {Johnstone},
-  {Weferling}, {Cohen}, {Jenness}, {Evans}, {Davis}, {Dent}, {Fuller},
-  {Jackson}, {Rathborne}, {Richer}, \& {Simon}}]{matthews09}
-{Matthews}, H. {et~al.} 2009, \aj, 138, 1380
-
-\bibitem[{{McKee} \& {Ostriker}(2007)}]{mckee07}
-{McKee}, C.~F. \& {Ostriker}, E.~C. 2007, \araa, 45, 565
-
-\bibitem[{{Molinari} {et~al.}(2010){Molinari}, {Swinyard}, {Bally}, {Barlow},
-  {Bernard}, {Martin}, {Moore}, {Noriega-Crespo}, {Plume}, {Testi}, {Zavagno},
-  {Abergel}, {Ali}, {Andr{\'e}}, {Baluteau}, {Benedettini}, {Bern{\'e}},
-  {Billot}, {Blommaert}, {Bontemps}, {Boulanger}, {Brand}, {Brunt}, {Burton},
-  {Campeggio}, {Carey}, {Caselli}, {Cesaroni}, {Cernicharo}, {Chakrabarti},
-  {Chrysostomou}, {Codella}, {Cohen}, {Compiegne}, {Davis}, {de Bernardis}, {de
-  Gasperis}, {Di Francesco}, {di Giorgio}, {Elia}, {Faustini}, {Fischera},
-  {Fukui}, {Fuller}, {Ganga}, {Garcia-Lario}, {Giard}, {Giardino}, {Glenn},
-  {Goldsmith}, {Griffin}, {Hoare}, {Huang}, {Jiang}, {Joblin}, {Joncas},
-  {Juvela}, {Kirk}, {Lagache}, {Li}, {Lim}, {Lord}, {Lucas}, {Maiolo},
-  {Marengo}, {Marshall}, {Masi}, {Massi}, {Matsuura}, {Meny}, {Minier},
-  {Miville-Desch{\^e}nes}, {Montier}, {Motte}, {M{\"u}ller}, {Natoli}, {Neves},
-  {Olmi}, {Paladini}, {Paradis}, {Pestalozzi}, {Pezzuto}, {Piacentini},
-  {Pomar{\`e}s}, {Popescu}, {Reach}, {Richer}, {Ristorcelli}, {Roy}, {Royer},
-  {Russeil}, {Saraceno}, {Sauvage}, {Schilke}, {Schneider-Bontemps},
-  {Schuller}, {Schultz}, {Shepherd}, {Sibthorpe}, {Smith}, {Smith},
-  {Spinoglio}, {Stamatellos}, {Strafella}, {Stringfellow}, {Sturm}, {Taylor},
-  {Thompson}, {Tuffs}, {Umana}, {Valenziano}, {Vavrek}, {Viti}, {Waelkens},
-  {Ward-Thompson}, {White}, {Wyrowski}, {Yorke}, \& {Zhang}}]{molinari10}
-{Molinari}, S. {et~al.} 2010, \pasp, 122, 314
-
-\bibitem[{{Motte} \& {Andr{\'e}}(2001)}]{motte01}
-{Motte}, F. \& {Andr{\'e}}, P. 2001, \aap, 365, 440
-
-\bibitem[{{Motte} {et~al.}(2007){Motte}, {Bontemps}, {Schilke}, {Schneider},
-  {Menten}, \& {Brogui{\`e}re}}]{motte07}
-{Motte}, F., {Bontemps}, S., {Schilke}, P., {Schneider}, N., {Menten}, K.~M.,
-  \& {Brogui{\`e}re}, D. 2007, \aap, 476, 1243
-
-\bibitem[{{Mueller} {et~al.}(2002){Mueller}, {Shirley}, {Evans}, \&
-  {Jacobson}}]{mueller02}
-{Mueller}, K.~E., {Shirley}, Y.~L., {Evans}, II, N.~J., \& {Jacobson}, H.~R.
-  2002, \apjs, 143, 469
-
-\bibitem[{{Netterfield} {et~al.}(2009){Netterfield}, {Ade}, {Bock}, {Chapin},
-  {Devlin}, {Griffin}, {Gundersen}, {Halpern}, {Hargrave}, {Hughes}, {Klein},
-  {Marsden}, {Martin}, {Mauskopf}, {Olmi}, {Pascale}, {Patanchon}, {Rex},
-  {Roy}, {Scott}, {Semisch}, {Thomas}, {Truch}, {Tucker}, {Tucker}, {Viero}, \&
-  {Wiebe}}]{netterfield09}
-{Netterfield}, C.~B. {et~al.} 2009, \apj, 707, 1824
-
-\bibitem[{{Nummelin} {et~al.}(1998){Nummelin}, {Bergman}, {Hjalmarson},
-  {Friberg}, {Irvine}, {Millar}, {Ohishi}, \& {Saito}}]{nummelin1998}
-{Nummelin}, A., {Bergman}, P., {Hjalmarson}, A., {Friberg}, P., {Irvine},
-  W.~M., {Millar}, T.~J., {Ohishi}, M., \& {Saito}, S. 1998, \apjs, 117, 427
-
-\bibitem[{{Olmi} {et~al.}(2009){Olmi}, {Ade}, {Angl{\'e}s-Alc{\'a}zar}, {Bock},
-  {Chapin}, {De Luca}, {Devlin}, {Dicker}, {Elia}, {Fazio}, {Giannini},
-  {Griffin}, {Gundersen}, {Halpern}, {Hargrave}, {Hughes}, {Klein},
-  {Lorenzetti}, {Marengo}, {Marsden}, {Martin}, {Massi}, {Mauskopf},
-  {Netterfield}, {Patanchon}, {Rex}, {Salama}, {Scott}, {Semisch}, {Smith},
-  {Strafella}, {Thomas}, {Truch}, {Tucker}, {Tucker}, {Viero}, \&
-  {Wiebe}}]{olmi09}
-{Olmi}, L. {et~al.} 2009, \apj, 707, 1836
-
-\bibitem[{{Orton} {et~al.}(1986){Orton}, {Griffin}, {Ade}, {Nolt}, \&
-  {Radostitz}}]{orton86}
-{Orton}, G.~S., {Griffin}, M.~J., {Ade}, P.~A.~R., {Nolt}, I.~G., \&
-  {Radostitz}, J.~V. 1986, Icarus, 67, 289
-
-\bibitem[{{Ossenkopf} \& {Henning}(1994)}]{ossenkopf94}
-{Ossenkopf}, V. \& {Henning}, T. 1994, \aap, 291, 943
-
-\bibitem[{{Peretto} \& {Fuller}(2009)}]{peretto09}
-{Peretto}, N. \& {Fuller}, G.~A. 2009, \aap, 505, 405
-
-\bibitem[{{Pohl} {et~al.}(2008){Pohl}, {Englmaier}, \&
-  {Bissantz}}]{RotationCurve}
-{Pohl}, M., {Englmaier}, P., \& {Bissantz}, N. 2008, \apj, 677, 283
-
-\bibitem[{{Rathborne} {et~al.}(2006){Rathborne}, {Jackson}, \&
-  {Simon}}]{rathborne06}
-{Rathborne}, J.~M., {Jackson}, J.~M., \& {Simon}, R. 2006, \apj, 641, 389
-
-\bibitem[{{Rathborne} {et~al.}(2008){Rathborne}, {Jackson}, {Zhang}, \&
-  {Simon}}]{rathborne08}
-{Rathborne}, J.~M., {Jackson}, J.~M., {Zhang}, Q., \& {Simon}, R. 2008, \apj,
-  689, 1141
-
-\bibitem[{{Reach} {et~al.}(1995){Reach}, {Dwek}, {Fixsen}, {Hewagama},
-  {Mather}, {Shafer}, {Banday}, {Bennett}, {Cheng}, {Eplee}, {Leisawitz},
-  {Lubin}, {Read}, {Rosen}, {Shuman}, {Smoot}, {Sodroski}, \&
-  {Wright}}]{reach95}
-{Reach}, W.~T. {et~al.} 1995, \apj, 451, 188
-
-\bibitem[{{Reid} {et~al.}(2009){Reid}, {Menten}, {Zheng}, {Brunthaler},
-  {Moscadelli}, {Xu}, {Zhang}, {Sato}, {Honma}, {Hirota}, {Hachisuka}, {Choi},
-  {Moellenbrock}, \& {Bartkiewicz}}]{reid09}
-{Reid}, M.~J. {et~al.} 2009, \apj, 700, 137
-
-\bibitem[{{Rosolowsky} {et~al.}(2010){Rosolowsky}, {Dunham}, {Ginsburg},
-  {Bradley}, {Aguirre}, {Bally}, {Battersby}, {Cyganowski}, {Dowell},
-  {Drosback}, {Evans}, {Glenn}, {Harvey}, {Stringfellow}, {Walawender}, \&
-  {Williams}}]{rosolowsky10}
-{Rosolowsky}, E. {et~al.} 2010, \apjs, 188, 123
-
-\bibitem[{{Roy} {et~al.}(2010){Roy}, {Ade}, {Bock}, {Chapin}, {Devlin},
-  {Dicker}, {Griffin}, {Gundersen}, {Halpern}, {Hargrave}, {Hughes}, {Klein},
-  {Marsden}, {Martin}, {Mauskopf}, {Miville-Desch{\^e}nes}, {Netterfield},
-  {Olmi}, {Patanchon}, {Rex}, {Scott}, {Semisch}, {Truch}, {Tucker}, {Tucker},
-  {Viero}, \& {Wiebe}}]{roy10}
-{Roy}, A. {et~al.} 2010, \apj, 708, 1611
-
-\bibitem[{{Sayers} {et~al.}(2010){Sayers}, {Golwala}, {Ade}, {Aguirre}, {Bock},
-  {Edgington}, {Glenn}, {Goldin}, {Haig}, {Lange}, {Laurent}, {Mauskopf},
-  {Nguyen}, {Rossinot}, \& {Schlaerth}}]{sayers10}
-{Sayers}, J. {et~al.} 2010, \apj, 708, 1674
-
-\bibitem[{{Sayers} {et~al.}(2009){Sayers}, {Golwala}, {Rossinot}, {Ade},
-  {Aguirre}, {Bock}, {Edgington}, {Glenn}, {Goldin}, {Haig}, {Lange},
-  {Laurent}, {Mauskopf}, \& {Nguyen}}]{sayers09}
----. 2009, \apj, 690, 1597
-
-\bibitem[{{Schlingman} {et~al.}(2010)}]{schlingman10}
-{Schlingman}, W. {et~al.} 2010, \apj, in prep
-
-\bibitem[{{Schuller} {et~al.}(2009){Schuller}, {Menten}, {Contreras},
-  {Wyrowski}, {Schilke}, {Bronfman}, {Henning}, {Walmsley}, {Beuther},
-  {Bontemps}, {Cesaroni}, {Deharveng}, {Garay}, {Herpin}, {Lefloch}, {Linz},
-  {Mardones}, {Minier}, {Molinari}, {Motte}, {Nyman}, {Reveret}, {Risacher},
-  {Russeil}, {Schneider}, {Testi}, {Troost}, {Vasyunina}, {Wienen}, {Zavagno},
-  {Kovacs}, {Kreysa}, {Siringo}, \& {Wei{\ss}}}]{schuller09}
-{Schuller}, F. {et~al.} 2009, \aap, 504, 415
-
-\bibitem[{{Simon} {et~al.}(2006{\natexlab{a}}){Simon}, {Jackson}, {Rathborne},
-  \& {Chambers}}]{simon06a}
-{Simon}, R., {Jackson}, J.~M., {Rathborne}, J.~M., \& {Chambers}, E.~T.
-  2006{\natexlab{a}}, \apj, 639, 227
-
-\bibitem[{{Simon} {et~al.}(2006{\natexlab{b}}){Simon}, {Rathborne}, {Shah},
-  {Jackson}, \& {Chambers}}]{IRDCdistance}
-{Simon}, R., {Rathborne}, J.~M., {Shah}, R.~Y., {Jackson}, J.~M., \&
-  {Chambers}, E.~T. 2006{\natexlab{b}}, \apj, 653, 1325
-
-\bibitem[{{Stark} \& {Lee}(2006)}]{stark06}
-{Stark}, A.~A. \& {Lee}, Y. 2006, \apjl, 641, L113
-
-\bibitem[{{Stil} {et~al.}(2006){Stil}, {Taylor}, {Dickey}, {Kavars}, {Martin},
-  {Rothwell}, {Boothroyd}, {Lockman}, \& {McClure-Griffiths}}]{stil06}
-{Stil}, J.~M. {et~al.} 2006, astro-ph/0605422
-
-\bibitem[{{Testi} \& {Sargent}(1998)}]{Testi1998}
-{Testi}, L. \& {Sargent}, A.~I. 1998, \apjl, 508, L91
-
-\bibitem[{{van Dishoeck} \& {Blake}(1998)}]{vandishoeck98}
-{van Dishoeck}, E.~F. \& {Blake}, G.~A. 1998, \araa, 36, 317
-
-\bibitem[{{Williams} {et~al.}(2000){Williams}, {Blitz}, \&
-  {McKee}}]{williams00}
-{Williams}, J.~P., {Blitz}, L., \& {McKee}, C.~F. 2000, Protostars and Planets
-  IV, 97
-
-\bibitem[{{Young} {et~al.}(2006){Young}, {Enoch}, {Evans}, {Glenn}, {Sargent},
-  {Huard}, {Aguirre}, {Golwala}, {Haig}, {Harvey}, {Laurent}, {Mauskopf}, \&
-  {Sayers}}]{young06}
-{Young}, K.~E. {et~al.} 2006, \apj, 644, 326
-
-\end{thebibliography}
-
+\bibliographystyle{plainnat}
+\bibliography{ms}
+\cite{*}
 
 \pagebreak
 

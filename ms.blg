@@ -1,47 +1,108 @@
 This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ms.aux
-I found no \bibdata command---while reading file ms.aux
-I found no \bibstyle command---while reading file ms.aux
-You've used 61 entries,
-            0 wiz_defined-function locations,
-            147 strings with 1055 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
-format.name$ -- 0
-if$ -- 0
-int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
-num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
-purify$ -- 0
+The style file: plainnat.bst
+Database file #1: ms.bib
+Warning--I didn't find a database entry for "dame01"
+Warning--I didn't find a database entry for "jackson06"
+Warning--I didn't find a database entry for "stark06"
+Warning--I didn't find a database entry for "RotationCurve"
+Warning--I didn't find a database entry for "reid09"
+Warning--I didn't find a database entry for "egan98"
+Warning--I didn't find a database entry for "carey98"
+Warning--I didn't find a database entry for "simon06a"
+Warning--I didn't find a database entry for "peretto09"
+Warning--I didn't find a database entry for "rathborne06"
+Warning--I didn't find a database entry for "rathborne08"
+Warning--I didn't find a database entry for "lada91"
+Warning--I didn't find a database entry for "enoch07"
+Warning--I didn't find a database entry for "evans09"
+Warning--I didn't find a database entry for "williams00"
+Warning--I didn't find a database entry for "mckee07"
+Warning--I didn't find a database entry for "mueller02"
+Warning--I didn't find a database entry for "vandishoeck98"
+Warning--I didn't find a database entry for "buckle09"
+Warning--I didn't find a database entry for "johnstone06"
+Warning--I didn't find a database entry for "holland99"
+Warning--I didn't find a database entry for "difrancesco08"
+Warning--I didn't find a database entry for "kauffmann08"
+Warning--I didn't find a database entry for "motte07"
+Warning--I didn't find a database entry for "olmi09"
+Warning--I didn't find a database entry for "roy10"
+Warning--I didn't find a database entry for "netterfield09"
+Warning--I didn't find a database entry for "chapin08"
+Warning--I didn't find a database entry for "schuller09"
+Warning--I didn't find a database entry for "stil06"
+Warning--I didn't find a database entry for "benjamin03"
+Warning--I didn't find a database entry for "carey09"
+Warning--I didn't find a database entry for "molinari10"
+Warning--I didn't find a database entry for "difrancesco08b"
+Warning--I didn't find a database entry for "rosolowsky10"
+Warning--I didn't find a database entry for "glenn03"
+Warning--I didn't find a database entry for "enoch06"
+Warning--I didn't find a database entry for "cotton09"
+Warning--I didn't find a database entry for "kovacs08"
+Warning--I didn't find a database entry for "sayers09"
+Warning--I didn't find a database entry for "sayers10"
+Warning--I didn't find a database entry for "laurent05"
+Warning--I didn't find a database entry for "hollis92"
+Warning--I didn't find a database entry for "orton86"
+Warning--I didn't find a database entry for "griffin93"
+Warning--I didn't find a database entry for "young06"
+Warning--I didn't find a database entry for "motte01"
+Warning--I didn't find a database entry for "matthews09"
+Warning--I didn't find a database entry for "enoch08"
+Warning--I didn't find a database entry for "Testi1998"
+Warning--I didn't find a database entry for "beuther04"
+Warning--I didn't find a database entry for "johnstone99"
+Warning--I didn't find a database entry for "cyganowski07"
+Warning--I didn't find a database entry for "battersby10"
+Warning--I didn't find a database entry for "IRDCdistance"
+Warning--I didn't find a database entry for "schlingman10"
+Warning--I didn't find a database entry for "dunham10"
+Warning--I didn't find a database entry for "ossenkopf94"
+Warning--I didn't find a database entry for "bally10"
+Warning--I didn't find a database entry for "reach95"
+Warning--I didn't find a database entry for "nummelin1998"
+You've used 3 entries,
+            2773 wiz_defined-function locations,
+            679 strings with 6246 characters,
+and the built_in function-call counts, 1942 in all, are:
+= -- 170
+> -- 143
+< -- 3
++ -- 48
+- -- 45
+* -- 168
+:= -- 302
+add.period$ -- 10
+call.type$ -- 3
+change.case$ -- 23
+chr.to.int$ -- 3
+cite$ -- 6
+duplicate$ -- 71
+empty$ -- 133
+format.name$ -- 52
+if$ -- 401
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 3
+newline$ -- 23
+num.names$ -- 12
+pop$ -- 45
+preamble$ -- 1
+purify$ -- 20
 quote$ -- 0
-skip$ -- 0
+skip$ -- 64
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 83
+swap$ -- 11
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 33
 warning$ -- 0
-while$ -- 0
+while$ -- 16
 width$ -- 0
-write$ -- 0
-(There were 2 error messages)
+write$ -- 47
+(There were 61 warnings)
